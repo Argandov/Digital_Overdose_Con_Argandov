@@ -4,7 +4,7 @@
 
 1. slides
 2. auth.log
-3. The "ascolimited" pcap file can be found at it's original source here: https://www.malware-traffic-analysis.net/2021/02/08/index.html
+3. The "ascolimited" pcap file can be found at it's original source here: https://www.malware-traffic-analysis.net/2021/02/08/index.html (You can even follow up some pretty good tutorials on Wireshark in that same page)
 
 Have fun, and be free to contact me anytime to clarify or expand on the information.
 
