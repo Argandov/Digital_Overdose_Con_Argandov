@@ -3,7 +3,7 @@
 1. [slides](/somelink)
 2. [pcap file](https://www.malware-traffic-analysis.net/2021/02/08/index.html)
 
-Have fun, and be free to contact me anytime to clarify or expand on the information.
+Have fun!
 
 ### Resources - pcap analysis
 
